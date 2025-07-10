@@ -4,7 +4,8 @@ public class chaos_start {
     //hi, new chaos >>
     // user user user
     //user sout("Hello");
-    ///this is a mistake //user
+
+    // ook poprawiam kup tez nachosy
 
 private String myName(String name){
     return name;
